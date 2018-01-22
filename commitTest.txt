@@ -5,4 +5,4 @@ Test the thing once more.
 Ok I get it. You should not ammend a public commit. Since I pushed the commit I wanted to ammend, it requires a merge.
 So : DO NOT AMMEND A PUBLIC COMMIT, DO NOT AMMEND A COMMIT YOU'VE ALREADY PUSHED! IT'S TO LATE, IT IS BAD PRACTISE! and so on...
 
-Bon du coup là c'est les branches. Donc normalement là ça s'affiche, je suis en train de travailler sur ma new-branch. Je repasse après sur master et cette ligne va disparaître... Mais là je vien de merge, donc ça apparait. Je vais garder la new-branch pour tester des conflits après.
+Bon du coup là c'est les branches. Donc normalement là ça s'affiche, je suis en train de travailler sur ma new-branch. Je repasse après sur master et cette ligne va disparaître... Mais là je vien de merge, donc ça apparait. Je vais garder la new-branch pour tester des conflits après. Et là ce coup ci j'édite la master (je vien d'editer la new-branch et commit) sans pusher pour l'instant.
