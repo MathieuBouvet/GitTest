@@ -9,3 +9,4 @@ Bon du coup là c'est les branches. Donc normalement là ça s'affiche, je suis 
 Bon du coup là c'est les branches. Donc normalement là ça s'affiche, je suis en train de travailler sur ma new-branch. Je repasse après sur master et cette ligne va disparaître... Et la j'édite new branch et master en même temps sans pusher sur le repo distant et on verra se qui se passe...
 Effectivement il y a eut un conflit à résoudre manuellement, mais ça va ça passe!
 Ajout depuis github
+le texte ajouté lors du 2eme commit
