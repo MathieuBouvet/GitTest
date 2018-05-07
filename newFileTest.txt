@@ -1,2 +1,4 @@
 new file
-added from github and again
+<<<<<<< HEAD
+added from github and again from github and from local
+
