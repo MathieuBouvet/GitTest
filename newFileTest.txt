@@ -1,4 +1,2 @@
 new file
-<<<<<<< HEAD
 added from github and again from github and from local
-
