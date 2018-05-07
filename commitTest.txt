@@ -8,3 +8,4 @@ So : DO NOT AMMEND A PUBLIC COMMIT, DO NOT AMMEND A COMMIT YOU'VE ALREADY PUSHED
 Bon du coup là c'est les branches. Donc normalement là ça s'affiche, je suis en train de travailler sur ma new-branch. Je repasse après sur master et cette ligne va disparaître... Mais là je vien de merge, donc ça apparait. Je vais garder la new-branch pour tester des conflits après. Et là ce coup ci j'édite la master (je vien d'editer la new-branch et commit) sans pusher pour l'instant.
 Bon du coup là c'est les branches. Donc normalement là ça s'affiche, je suis en train de travailler sur ma new-branch. Je repasse après sur master et cette ligne va disparaître... Et la j'édite new branch et master en même temps sans pusher sur le repo distant et on verra se qui se passe...
 Effectivement il y a eut un conflit à résoudre manuellement, mais ça va ça passe!
+Ajout depuis github
