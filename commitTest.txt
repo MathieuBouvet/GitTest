@@ -10,3 +10,4 @@ Bon du coup là c'est les branches. Donc normalement là ça s'affiche, je suis 
 Effectivement il y a eut un conflit à résoudre manuellement, mais ça va ça passe!
 Ajout depuis github
 le texte ajouté lors du 2eme commit
+On ajoute du texte
