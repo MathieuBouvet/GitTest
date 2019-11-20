@@ -5,3 +5,4 @@ concurent feature needs to edit big feature
 a small contribution to big feature
 master edit
 add a test
+another master edit
