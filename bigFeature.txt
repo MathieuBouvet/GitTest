@@ -7,3 +7,4 @@ master edit
 add a test
 another master edit
 yet another master edit
+add a feature
